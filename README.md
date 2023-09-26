@@ -14,6 +14,7 @@ Please find below a list of the previous meetups organized by R-Ladies Paris. Yo
 
 | Date  | Time  | Topic  | Type  | Invited speaker(s) | Moderator(s) | Place  | Event materials  |
 |---|---|---|---|---|---|---|---|
+| October 03, 2023 | 7pm - 8pm | Watch Party Posit::Conf(2023) | Webinar [[link](https://www.meetup.com/rladies-paris/events/294207284/)] | R-Ladies Paris and R-Ladies Strasbourg teams|  |Zoom|
 
 ## Past events
 
